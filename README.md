@@ -35,4 +35,4 @@ Analyze mobile sales data to identify trends and business insights.
 ---
 
 ## Dashboard Preview
-Mobile_sales_dashboard.png
+https://github.com/analystmind222/mobile-sales-analysis/blob/c3d976730f892c9a3a9ad5f8e2f3514714e2b970/Mobile%20sales%20dashboard.png
