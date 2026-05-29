@@ -28,10 +28,10 @@ Analyze mobile sales data to identify trends and business insights.
 ---
 
 ## Key Insights
-- Top 3 cities contributed ~40% revenue
-- Seasonal sales trends identified
-- Ratings mostly above 4
-- UPI was dominant payment method
+- Apple → ₹16.16 Cr (Top Brand)
+- UPI → 26.25% (Most preferred payment)
+- Saturday → ₹115M (Highest sales day)
+- 38% customers gave 5-star rating
 ---
 
 ## Dashboard Preview
